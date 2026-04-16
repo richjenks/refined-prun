@@ -12,6 +12,7 @@
 
 ### Changed
 
+- `XIT ACT`: Filter destination list based on selected origin in `MTRA` configuration
 - `XIT CONTC`: Show an address link in the "Contribute" condition
 - `cxpo-order-book`: Add a delete button to own orders
 - `nots-notification-type-label`: Add labels for new notification types
