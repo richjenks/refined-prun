@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- `cxo-delete-order-button`: Adds a delete button
+
 ### Changed
 
 - `XIT CONTC`: Show an address link in the "Contribute" condition
