@@ -11,6 +11,7 @@
 
 - `XIT CONTC`: Show an address link in the "Contribute" condition
 - `cxpo-order-book`: Add a delete button to own orders
+- `nots-notification-type-label`: Add new notification types
 
 ## 26.3.22
 
