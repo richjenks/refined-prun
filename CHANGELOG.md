@@ -4,6 +4,7 @@
 
 ### Added
 
+- `adm-hide-inactive-buttons`: Hides inactive buttons
 - `cxo-delete-order-button`: Adds a delete button
 - `cxob-delete-own-exchange-orders`: Adds a delete button to own orders
 - `inv-shpt-condition-indicator`: Adds a condition indicator to SHPT and BLCK items
